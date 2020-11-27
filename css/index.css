@@ -8,3 +8,8 @@ body {
   font-family: 'Karla';
   @apply bg-gray-800 text-white
 }
+
+a.disable {
+  pointer-events: none;
+  cursor: default;
+}

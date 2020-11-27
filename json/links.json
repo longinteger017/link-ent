@@ -1,27 +1,67 @@
 [
   {
-    "title": "Portfolio and Resume",
-    "url": "https://montoulieu.dev",
-    "emoji": "🤝"
+    "title": "My work and gaming equipment",
+    "url": "https://kit.co/long.integer",
+    "emoji": "⚔️",
+    "show": true
   },
   {
-    "title": "shwarma - Experimental Psych Rock",
-    "url": "https://music.shwarma.band",
-    "emoji": "🎸"
+    "title": "Why I drink so much ginger tea",
+    "url": "https://www.notion.so/Why-do-I-drink-so-much-ginger-tea-b87b3a6496244fc8976adb7f2bc07cea",
+    "emoji": "🍵",
+    "show": true
   },
   {
-    "title": "Dr. Zilog - Chiptune Prog Metal",
-    "url": "https://drzilog.bandcamp.com",
-    "emoji": "🤘"
+    "title": "My ginger tea recipe",
+    "url": "https://www.notion.so/My-ginger-recipe-8810ce311dfa4dcaafef037a770c1e02",
+    "emoji": "🔖",
+    "show": true
   },
   {
-    "title": "VGM and Emulation Blog",
-    "url": "https://pixelglitch.net",
-    "emoji": "👾"
+    "title": "My ginger shot recipe",
+    "url": "https://www.notion.so/My-ginger-shot-recipe-2dcaec69767e4662a25efbd4fc5a3b8a",
+    "emoji": "🔖",
+    "show": true
   },
   {
-    "title": "Vaporwave and Ambient Music",
-    "url": "https://montoulieu.bandcamp.com",
-    "emoji": "🔊"
+    "title": "Where to start if you want to learn programming",
+    "url": "https://www.freecodecamp.org/",
+    "emoji": "💻",
+    "show": true
+  },
+  {
+    "title": "Watch my last YouTube Video how I replaced my friend using code",
+    "url": "https://urlgeni.us/youtube/rK91",
+    "emoji": "🎥",
+    "show": true
+  },
+  {
+    "title": "Don't miss the launch of the new #devinitelyhealthy page",
+    "url": "https://urlgeni.us/instagram/EZsY",
+    "emoji": "🚀",
+    "show": true
+  },
+  {
+    "title": "#devinitelyhealthy community",
+    "url": "https://www.devinitelyhealthy.xyz",
+    "emoji": "🌿",
+    "show": true
+  },
+  {
+    "title": "Personal Page",
+    "url": "https://www.long-integer.com/",
+    "emoji": "🙋🏻‍♂️",
+    "show": true
+  }, {
+    "title": "Must-read books (coming soon)",
+    "url": "links.long-integer.com/#",
+    "emoji": "📚",
+    "show": false
+  },
+  {
+    "title": "Must-have tools (coming soon)",
+    "url": "links.long-integer.com/#",
+    "emoji": "🛠",
+    "show": false
   }
 ]
